@@ -2,7 +2,7 @@
 
 ## Description
 
-Install script for [vscode-cpptool](https://github.com/microsoft/vscode-cpptools)
+Script for installing [vscode-cpptool](https://github.com/microsoft/vscode-cpptools)
 
 ## Requirements
 
@@ -11,5 +11,5 @@ Install script for [vscode-cpptool](https://github.com/microsoft/vscode-cpptools
 ## How to Use
 
 ```bash
-wget https://raw.githubusercontent.com/danpeeei/update-cpptools/main/update-cpptools.sh | bash
+curl -s https://raw.githubusercontent.com/danpeeei/update-cpptools/main/update-cpptools.sh | bash
 ```
