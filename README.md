@@ -6,10 +6,12 @@ Script for installing [vscode-cpptool](https://github.com/microsoft/vscode-cppto
 
 ## Requirements
 
-- `jq` is required
+- `jq`
 
 ## How to Use
 
+For bash
+
 ```bash
-curl -s https://raw.githubusercontent.com/danpeeei/update-cpptools/main/update-cpptools.sh | bash
+bash <(curl -s https://raw.githubusercontent.com/danpeeei/update-cpptools/main/update-cpptools.sh)
 ```
